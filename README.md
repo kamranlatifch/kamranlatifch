@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamran Latif Ch</h1>
-<!-- <h3 align="center">Building Web Applications Since 2020</h3> 
+<!-- <h3 align="center">Building Web Applications Since 2020</h3> -->
 
- - 👨‍💻 All of my projects are available at [https://hexextract.github.io/portfolio/](https://hexextract.github.io/portfolio/)-->
+
 
 - 💬 Ask me about **JS,React,Node.js, [MERN]**
 
