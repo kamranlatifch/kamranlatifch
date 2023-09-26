@@ -1,4 +1,4 @@
-![logo](https://github.com/kamranlatifch/kamranlatifch/blob/main/Kamran%20Latif%20Ch.png)
+![logo](https://github.com/kamranlatifch/kamranlatifch/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Muhammad Kamran Latif</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
