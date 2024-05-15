@@ -23,4 +23,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamranlatifch&show_icons=true&locale=en" alt="kamranlatifch" /></p>
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 
