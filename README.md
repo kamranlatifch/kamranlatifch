@@ -6,6 +6,13 @@
 
 - 💬 Ask me about **Html, CSS, Botstap, Tailwind, MUI, JavaScript, React.js, Next.js, Svelte, Express.js, Node.js, MongoDb, Rust.....**
 
+- # Certifications
+
+
+- [Certification Name 1](link_to_certification) - Issued by LinkedIn
+- [Certification Name 2](link_to_certification) - Issued by LinkedIn
+
+
 - 📫 How to reach me **kamranlatif98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
