@@ -13,7 +13,15 @@
 - [Certification Name 2](link_to_certification) - Issued by LinkedIn
 
 
+
+
 - 📫 How to reach me **kamranlatif98@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranlatifch&label=Profile%20views&color=0e75b6&style=flat" alt="kamranlatifch" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamranlatifch" alt="kamranlatifch" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
